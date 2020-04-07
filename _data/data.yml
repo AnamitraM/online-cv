@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -16,11 +16,11 @@ sidebar:
     phone: +31622951554
     website: #do not add http://
     linkedin: anamitram
-    github: anamitram
+    github: AnamitraM
     gitlab:
     bitbucket:
     twitter: '@AnamitraM_'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 4020654/anamitra # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -132,18 +132,14 @@ projects:
         tagline: "Led a group of two students to design a simulation model for forest fires and their spread in MATLAB."        
 
 publications:
-    title: Conferences
-    intro: |
-      A list of conferences I have participated in:
-    papers:
-      - title: Presented a conference paper on ”graphic user interface (GUI) software for acquisition of fluorescence image of bacterial bio-burden in wounds with enhanced sensitivity” at Indian Institute of Technology (IIT), Indore, India.
-
-      - title: Presented and published a review paper titled ”An Overview of Technical Debt and Different Methods Used for its Analysis” at the 16th SC@RUG 2019.
-      
-    title: Presenations
+    title: Presenations &amp; Conferences
     intro: |
       A list of presentations I have attended:
     papers: 
+      - title: Presented a conference paper on ”graphic user interface (GUI) software for acquisition of fluorescence image of bacterial bio-burden in wounds with enhanced sensitivity” at Indian Institute of Technology (IIT), Indore, India.
+
+      - title: Presented and published a review paper titled ”An Overview of Technical Debt and Different Methods Used for its Analysis” at the 16th SC@RUG 2019.
+    
       - title: Prepared and presented a sales pitch for a business company case study, employing a number of business-tobusiness (B2B) marketing strategies.
 
       - title: Presented a case study focusing on the concepts of service profit chain, value of customer (VOC), value for customer (VFC) and commodity trap related to marketing.  
