@@ -128,7 +128,7 @@ projects:
         #link: "#"
         tagline: "Led a group of two students to design a simulation model for forest fires and their spread in MATLAB."        
 
-conferences:
+publications:
     title: Conferences
     intro: |
       A list of conferences I have participated in:
@@ -137,7 +137,7 @@ conferences:
 
       - title: Presented and published a review paper titled ”An Overview of Technical Debt and Different Methods Used for its Analysis” at the 16th SC@RUG 2019.
       
-presentations: 
+publications: 
     title: Presenations
     intro: |
       A list of presentations I have atteneded:
