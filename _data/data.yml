@@ -132,7 +132,7 @@ publications:
     title: Conferences
     intro: |
       A list of conferences I have participated in:
-    conferences:
+    papers:
       - title: Presented a conference paper on ”graphic user interface (GUI) software for acquisition of fluorescence image of bacterial bio-burden in wounds with enhanced sensitivity” at Indian Institute of Technology (IIT), Indore, India.
 
       - title: Presented and published a review paper titled ”An Overview of Technical Debt and Different Methods Used for its Analysis” at the 16th SC@RUG 2019.
@@ -141,7 +141,7 @@ publications:
     title: Presenations
     intro: |
       A list of presentations I have atteneded:
-    presentations: 
+    papers: 
       - title: Prepared and presented a sales pitch for a business company case study, employing a number of business-tobusiness (B2B) marketing strategies.
 
       - title: Presented a case study focusing on the concepts of service profit chain, value of customer (VOC), value for customer (VFC) and commodity trap related to marketing.  
