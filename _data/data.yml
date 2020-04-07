@@ -1,0 +1,200 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Anamitra Majumdar
+    tagline: Master Student
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: anamitra.majumdar@gmail.com  
+    phone: +31622951554
+    website: #do not add http://
+    linkedin: anamitram
+    github: anamitram
+    gitlab:
+    bitbucket:
+    twitter: '@AnamitraM_'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Hindi
+        level: Native
+
+      - idiom: Bengali
+        level: Native
+
+    interests:
+      - item: Reading
+        link:
+
+      - item: Travelling
+        link:
+
+      - item: Gaming
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    - degree: MSc in Computing Science
+      university: University of Groningen
+      time: 2019 - 2021
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BTech in Computer Science
+      university: Oriental University
+      time: 2014 - 2018
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: Research Trainee
+      time: June, 2017 - December, 2017
+      company: Raja Ramanna Center for Advanced Technology (Department of Atomic Energy), Indore, India
+      details: |
+          - Developed a graphic user interface (GUI) software for acquisition of fluorescence image of bacterial bio-burden in wounds with enhanced sensitivity.
+          - Engaged in biweekly presentations in order to update the research group/department with the recent developments and progress.
+          - Participated in strategy meetings with scientists of the group to discuss the immediate and long term goals of the project.
+    - role: Event Organizer
+      time: February, 2016 - December, 2016
+      company: Indore Municipal Corporation, Indore, India
+      details: |
+          - Organization of waste cleaning events throughout the city.
+          - Managing awareness programs about the dangers of waste to the environment and benefits of having a clean society.
+          - Actively reaching out to authorities in order to tighten laws in the city regarding garbage disposal and have a zero tolerance policy towards littering.
+          - Contributing towards Indore being ”the cleanest city of India”, awarded officially by the government of India as part of the annual Swachh Survekshan (Cleanliness Survey). Indore has won this award three times between 2017 - 2019, solidifying its position as the cleanest city of India repeatedly.
+projects:
+    title: Projects
+    intro: >
+      This is a brief summary of the projects I have been involved in:
+    assignments:
+      - title: Predictive Analytics
+        #link: "#hook"
+        tagline: "Created a machine learning model titled “Machine Learning Predictive Analytics for Insurance” using the Microsoft Azure platform."
+
+      - title: Android Development
+        #link: "#"
+        tagline: "Involved in a project on Android Application Development titled “Android Programming for Starters”."
+
+      - title: Networking Theory
+        #link: "#"
+        tagline: "Worked on a Networking Theory project at Indian Institute of Science Education Research (IISER), Kolkata, India."
+
+      - title: Web Design
+        #link: "#"
+        tagline: "Developed a Q&A forum style learning website aimed at aiding Computer Science/IT students with their courses/study."
+
+      - title: Bachelor Major Project
+        #link: "#"
+        tagline: "Developed a software interface for a smart phone-based hardware control of a stand-alone fluorescence imaging tool."
+        
+      - title: Scalable Computing
+        #link: "#"
+        tagline: "Led a group of three students to design a two-year weather forecast model for five cities of the Netherlands, using Scala and Apache Spark."
+
+      - title: Systems Engineering
+        #link: "#"
+        tagline: "Led a a team of ten students to design a ”Central Healthcare Development System” for the state of Bihar, India, focusing on affordable, equal and easy-to-reach healthcare for all the people."
+
+      - title: Web & Cloud Computing
+        #link: "#"
+        tagline: "Led a team of three students to design a single page corporate carpooling web application, deployed in a fault tolerant and scalable way, using Docker Swarm."
+
+      - title: Modelling and Simulation
+        #link: "#"
+        tagline: "Led a group of two students to design a simulation model for forest fires and their spread in MATLAB."        
+
+conferences:
+    title: Conferences
+    intro: |
+      A list of conferences I have participated in:
+    conferences:
+      - title: Presented a conference paper on ”graphic user interface (GUI) software for acquisition of fluorescence image of bacterial bio-burden in wounds with enhanced sensitivity” at Indian Institute of Technology (IIT), Indore, India.
+
+      - title: Presented and published a review paper titled ”An Overview of Technical Debt and Different Methods Used for its Analysis” at the 16th SC@RUG 2019.
+      
+presentations: 
+    title: Presenations
+    intro: |
+      A list of presentations I have atteneded:
+    presentations: 
+      - title: Prepared and presented a sales pitch for a business company case study, employing a number of business-tobusiness (B2B) marketing strategies.
+
+      - title: Presented a case study focusing on the concepts of service profit chain, value of customer (VOC), value for customer (VFC) and commodity trap related to marketing.  
+      
+      - title: Presented a consumer psychology research project titled ”the effect of a recycling symbol on consumers buying a recycled product”.
+      
+      - title: Presented a study on how supermarkets (such as Albert Heijn) effectively use different marketing techniques to motivate consumers to buy their products and how it can also have negative effects.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C
+        level: 80%
+
+      - name: C++
+        level: 80%
+
+      - name: JAVA
+        level: 80%
+
+      - name: Python
+        level: 90%
+
+      - name: MATLAB
+        level: 90%
+
+      - name: SQL
+        level: 70%
+        
+      - name: Docker
+        level: 60%
+        
+      - name: Scala
+        level: 50%
+        
+      - name: Apache Spark
+        level: 50%
+        
+      - name: OpenGL
+        level: 30%
+        
+      - name: CORE 9
+        level: 70%
+        
+      - name: Microsoft Office
+        level: 95%
+        
+      - name: LaTeX
+        level: 95%
+
