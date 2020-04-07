@@ -80,6 +80,13 @@ experiences:
           - Assignment and project grading.
           - Exam invigilation
           - Weekly Q&A sessions with students.
+    - role: Project Intern
+      time: April, 2020 - June, 2020
+      company: University of Groningen, Groningen, Netherlands
+      details: | 
+          - Optimizing the training of Generalized Matrix Learning Vector Quantization (GMLVQ) method for classification of tumor data, so as to have a range of allowed relevances and avoid the negative effects of the randmoized training process.
+          - Oral presenation and report submission of the above.
+          - Supervision by Prof. Dr. Michael Biehl (http://www.cs.rug.nl/~biehl/).
     - role: Research Trainee
       time: June, 2017 - December, 2017
       company: Raja Ramanna Center for Advanced Technology (DAE), Indore, India
