@@ -72,6 +72,14 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Teaching Assistant
+      time: September, 2020 - Present
+      company: University of Groningen, Groningen, Netherlands
+      details: |
+          - Practical/lab supervision of students.
+          - Assignment and project grading.
+          - Exam invigilation
+          - Weekly Q&A sessions with students.
     - role: Research Trainee
       time: June, 2017 - December, 2017
       company: Raja Ramanna Center for Advanced Technology (DAE), Indore, India
@@ -140,7 +148,7 @@ publications:
 publications: 
     title: Presenations
     intro: |
-      A list of presentations I have atteneded:
+      A list of presentations I have attended:
     papers: 
       - title: Prepared and presented a sales pitch for a business company case study, employing a number of business-tobusiness (B2B) marketing strategies.
 
