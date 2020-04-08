@@ -71,10 +71,9 @@ education:
       details: |
           - School Topper  
 qualifications:          
-    - degree: International English Language Testing System (8.0)
-      #university: Choithram School
-      #time: 2010 - 2012      
+    - degree: International English Language Testing System (8.0)   
     - degree: CBSE Problem Solving Assessment (90th Percentile)
+    - degree: Tennessee Comprehensive Assessment Program (90th Percentile)
 experiences:
     - role: Teaching Assistant (Upcoming)
       time: September, 2020 - Indefinite
