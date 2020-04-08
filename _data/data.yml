@@ -68,7 +68,10 @@ education:
       university: Choithram School
       time: 2010 - 2012
       details: |
-          - School Topper      
+          - School Topper  
+    - degree: International English Language Testing System (8.0)
+      #university: Choithram School
+      #time: 2010 - 2012       
 experiences:
     - role: Teaching Assistant (Upcoming)
       time: September, 2020 - Indefinite
