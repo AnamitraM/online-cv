@@ -14,11 +14,11 @@ sidebar:
 
     # Sidebar links
     email: anamitra.majumdar@gmail.com  
-    phone: +31622951554
+    phone: +919784202473
     website: #do not add http://
     linkedin: anamitram
     github: AnamitraM
-    gitlab:
+    gitlab: AnamitraM
     bitbucket:
     twitter: '@AnamitraM_'
     stack-overflow: 4020654/anamitra # Number/Username, e.g. 123456/alandoe
@@ -50,7 +50,7 @@ career-profile:
     summary: |
       I am an aspirsing researcher, involved in the field of Data Science & Analytics for the past 4 years. My aim is to use the concepts of machine learning and artificial intelligence in biomedical applications for the betterment of healthcare for the people. I am always looking to learn new things and give my best in whatever I am involved in. There is no development possible without research and that is why I look forward to collaborate with others in advancing current technologies for realizing a better future. 
 education:
-    - degree: MSc in Computing Science - Data Science & Systems Complexity (Pursuing)
+    - degree: MSc in Computing Science - Data Science & Systems Complexity (7.4 GPA)
       university: University of Groningen
       time: 2019 - 2021
       details: |
@@ -75,19 +75,20 @@ qualifications:
     - degree: CBSE Problem Solving Assessment (90th Percentile)
     - degree: Tennessee Comprehensive Assessment Program (90th Percentile)
 experiences:
-    - role: Teaching Assistant (Upcoming)
+    - role: ML Thesis Student
       time: September, 2020 - Indefinite
-      company: University of Groningen, Groningen, Netherlands
+      company: University of Birmingham, Birmingham, United Kingdom
       details: |
-          - Practical/lab supervision of students.
-          - Assignment and project grading.
-          - Exam invigilation.
-          - Weekly Q&A sessions with students.
-    - role: Research Intern
+          - Multi-class machine learning analysis of steroid excretion data obtained from a large number of healthy controls and patients presenting with a variety of disorders of the adrenal gland.
+          - Addressed diagnostic challenges such as benign/malignant tumors, stages of Cortisol excess, Cushing's disease and other resulting conditions like diabetes and hypertension.
+          - The main aims were to infer possible interdependencies of the conditions from the dataset and to identify bio-markers, i.e., steroid metabolites, which are relevant for the diagnosis of the respective disease or condition.
+          - Colloquium presentation and thesis report submission of the above.
+          - Guidance by Prof. Dr. Wiebke Arlt (https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/Arlt-Wiebke.aspx) as part of the EURINE-ACT (http://www.ensat.org/page-1445558) initiative and direct supervision by Prof. Dr. Michael Biehl (http://www.cs.rug.nl/~biehl/).
+    - role: ML Research Intern
       time: April, 2020 - June, 2020
       company: University of Groningen, Groningen, Netherlands
       details: | 
-          - Optimizing the training of Generalized Matrix Learning Vector Quantization (GMLVQ) method for classification of tumor data, so as to have a range of allowed relevances and avoid the negative effects of the randomized training process.
+          - Optimizing the training of Generalized Matrix Learning Vector Quantization (GMLVQ) method for classification of tumor data, so as to understand the influence of constraints on the relevance matrix and study if feature relevances can be varied without loss in classification performance.
           - Oral presentation and report submission of the above.
           - Supervision by Prof. Dr. Michael Biehl (http://www.cs.rug.nl/~biehl/).
     - role: Research Trainee
