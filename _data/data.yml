@@ -80,6 +80,12 @@ qualifications:
     - degree: CBSE Problem Solving Assessment (90th Percentile)
     - degree: Tennessee Comprehensive Assessment Program (90th Percentile)
 experiences:
+    - role: AI Student Researcher
+      time: January, 2021 - Current
+      company: Princess Margaret Cancer Centre, University of Toronto, Canada
+      details: |
+          - Temporal & spatial analysis of volumetric optical coherence tomography (OCT) images of tumor samples to interpret the changes in tumor vasculature after radiation treatment, predict response to radiation therapy and understanding effects of different dosages, among other long term goals of detecting pancreatic cancer at the early onset stages.
+          - Supervision by Prof. Dr. Alex Vitkin (http://wwwlabs.uhnresearch.ca/biophotonics/staff/avitkin.htm).
     - role: ML Thesis Student
       time: August, 2020 - December, 2020
       company: University of Birmingham, Birmingham, United Kingdom
