@@ -131,64 +131,20 @@ experiences:
           - Organization of waste cleaning events throughout the city.
           - Managing awareness programs about the dangers of waste to the environment and benefits of having a clean society.
           - Actively reaching out to authorities in order to tighten laws in the city regarding garbage disposal and have a zero tolerance policy towards littering.
-          - Contributing towards Indore being ”the cleanest city of India”, awarded officially by the government of India as part of the annual Swachh Survekshan (Cleanliness Survey). Indore has won this award three times between 2017 - 2019, solidifying its position as the cleanest city of India repeatedly.
-projects:
-    title: Projects
-    intro: >
-      This is a brief summary of the projects I have been involved in:
-    assignments:
-      - title: Predictive Analytics
-        #link: "#hook"
-        tagline: "Created a machine learning model titled “Machine Learning Predictive Analytics for Insurance” using the Microsoft Azure platform."
-
-      - title: Android Development
-        #link: "#"
-        tagline: "Involved in a project on Android Application Development titled “Android Programming for Starters”."
-
-      - title: Networking Theory
-        #link: "#"
-        tagline: "Worked on a Networking Theory project at Indian Institute of Science Education Research (IISER), Kolkata, India."
-
-      - title: Web Design
-        #link: "#"
-        tagline: "Developed a Q&A forum style learning website aimed at aiding Computer Science/IT students with their courses/study."
-
-      - title: Bachelor Major Project
-        #link: "#"
-        tagline: "Developed a software interface for a smart phone-based hardware control of a stand-alone fluorescence imaging tool."
-        
-      - title: Scalable Computing
-        #link: "#"
-        tagline: "Led a group of three students to design a two-year weather forecast model for five cities of the Netherlands, using Scala and Apache Spark."
-
-      - title: Systems Engineering
-        #link: "#"
-        tagline: "Led a a team of ten students to design a ”Central Healthcare Development System” for the state of Bihar, India, focusing on affordable, equal and easy-to-reach healthcare for all the people."
-
-      - title: Web & Cloud Computing
-        #link: "#"
-        tagline: "Led a team of three students to design a single page corporate carpooling web application, deployed in a fault tolerant and scalable way, using Docker Swarm."
-
-      - title: Modelling and Simulation
-        #link: "#"
-        tagline: "Led a group of two students to design a simulation model for forest fires and their spread in MATLAB."        
+          - Contributing towards Indore being ”the cleanest city of India”, awarded officially by the government of India as part of the annual Swachh Survekshan (Cleanliness Survey). Indore has won this award three times between 2017 - 2019, solidifying its position as the cleanest city of India repeatedly.     
 
 publications:
-    title: Presenations &amp; Conferences
+    title: Publications
     intro: |
       A list of presentations I have attended:
     papers: 
-      - title: Presented a conference paper on ”graphic user interface (GUI) software for acquisition of fluorescence image of bacterial bio-burden in wounds with enhanced sensitivity” at Indian Institute of Technology (IIT), Indore, India.
+      - title: Majumdar A. (2020). Multi-Class Machine Learning Analysis of Steroid Metabolomics Data. Master Thesis, Univeristy of Groningen, Groningen, NL.
 
-      - title: Presented and published a review paper titled ”An Overview of Technical Debt and Different Methods Used for its Analysis” at the 16th SC@RUG 2019.
+      - title: Majumdar A. (2020). Constrained Relevance Matrices in Learning Vector Quantization. Internship Thesis, Univeristy of Groningen, Groningen, NL.
     
-      - title: Prepared and presented a sales pitch for a business company case study, employing a number of business-tobusiness (B2B) marketing strategies.
-
-      - title: Presented a case study focusing on the concepts of service profit chain, value of customer (VOC), value for customer (VFC) and commodity trap related to marketing.  
+      - title: Majumdar A et. al. (2019). An Overview of Technical Debt and Different Methods Used for its Analysis. 16th SC@ RUG 2018-2019, 25.
       
-      - title: Presented a consumer psychology research project titled ”the effect of a recycling symbol on consumers buying a recycled product”.
-      
-      - title: Presented a study on how supermarkets (such as Albert Heijn) effectively use different marketing techniques to motivate consumers to buy their products and how it can also have negative effects.
+      - title:  
 
 skills:
     title: Skills &amp; Proficiency
